@@ -92,26 +92,6 @@ git push origin main
 - The build uses `npm run build` and places the output into `dist`.
 - `vercel.json` rewrites guarantee that visiting `/about`, `/projects`, or `/services` directly will never throw 404 errors.
 
----
-
-## ❓ Frequently Asked Questions
-
-### 1. Vercel free hosting aur free domain kyu deta hai?
-Vercel ka business model **"Freemium"** hota hai. 
-- Individual developers, students aur open-source creators ke liye Vercel ka **Hobby Plan** 100% Free hota hai taaki developers unka platform use karein.
-- Jab yahi developers badi startups ya enterprises banate hain jahan millions of hits aur private enterprise team collaboration chahiye hoti hai, tab wo paid Pro / Enterprise plans lete hain.
-- Isliye personal portfolios, showcase apps aur side projects ke liye Vercel lifetime free rehta hai.
-
-### 2. Hum kitne projects Vercel par free host kar sakte hain?
-- Vercel Hobby plan par aap **Unlimited personal repositories / projects** free host kar sakte hain (Fair use policy ke mutabiq).
-- Har project ko apna alag free `*.vercel.app` domain milta hai.
-
-### 3. Kya mera portfolio hamesha live rahega ya delete ho jayega?
-- **Yeh 100% Lifetime Permanent hai!**
-- Yeh kabhi apne aap expire ya delete nahi hoga jab tak aap khud Vercel dashboard se isse delete na karein ya apna GitHub repo delete na karein.
-- Iska SSL certificate (HTTPS 🔒) bhi Vercel automatically renew karta rehta hai.
-
----
 
 ## 🛠️ Local Development & Running
 
